@@ -1,0 +1,23 @@
+variable,type,description,professional_note
+participant_id,integer,Synthetic participant identifier,No real participant data
+age,integer,Synthetic age in years,Used only for demonstration
+developmental_stage,categorical,Synthetic developmental stage,Not a diagnostic classification
+condition,categorical,comparison or grit_support,Demonstration of intervention evaluation
+implementation_quality,float,Synthetic fidelity/quality score,Important in real program evaluation
+baseline_perseverance,float,Synthetic pre-intervention perseverance,Not a validated scale
+baseline_consistency,float,Synthetic pre-intervention consistency,Not a validated scale
+baseline_adaptive_persistence,float,Synthetic pre-intervention adaptive persistence,Not an individual assessment
+baseline_support,float,Synthetic social/contextual support,Context-dependent
+baseline_stress,float,Synthetic stress indicator,Not a clinical measure
+baseline_recovery,float,Synthetic recovery capacity,Partly contextual
+baseline_burnout_risk,float,Synthetic burnout-risk indicator,Not a clinical measure
+post_perseverance,float,Synthetic post-intervention perseverance,Not a validated scale
+post_consistency,float,Synthetic post-intervention consistency,Not a validated scale
+post_adaptive_persistence,float,Synthetic post-intervention adaptive persistence,Not an individual assessment
+post_purpose_alignment,float,Synthetic purpose alignment score,Context-sensitive
+post_feedback_responsiveness,float,Synthetic feedback responsiveness score,Depends on feedback quality and safety
+post_recovery_capacity,float,Synthetic recovery capacity,Partly contextual
+post_burnout_risk,float,Synthetic burnout-risk indicator,Safety outcome
+post_wellbeing,float,Synthetic wellbeing score,Not a clinical measure
+goal_progress,float,Synthetic goal progress,Not an objective outcome
+intervention_acceptability,float,Synthetic acceptability score,Useful for implementation evaluation

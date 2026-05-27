@@ -1,34 +1,49 @@
-# Professional Positive Psychology Research Upgrade
+# Professional Positive Psychology Research Scaffold
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
 ## Purpose
 
-This folder has been upgraded into a professional positive-psychology research scaffold. It is designed for psychologists, positive psychology researchers, graduate students, psychometricians, program evaluators, educators, coaches working in evidence-informed settings, and applied professionals who need transparent, reproducible materials rather than generic coding examples.
+This scaffold turns the article folder into a professional positive-psychology research repository. It emphasizes construct clarity, psychometrics, intervention design, contextual moderation, ethics, responsible interpretation, and reproducible workflows.
 
-The folder now includes:
+## Professional assets included
 
 - construct definitions
 - scale and facet documentation
 - measurement and psychometrics notes
 - synthetic survey-style data
-- data dictionary
-- reliability and validity workflows
-- longitudinal and developmental modeling workflows
-- intervention design and evaluation notes
+- intervention evaluation data dictionary
+- Python and R workflows for reliability, validity, intervention effects, moderation, and burnout safety
+- SQL schema for organizing synthetic intervention data
+- responsible-use and ethics notes
 - professional interpretation limitations
-- ethics and responsible-use documentation
-- SQL schema for research data organization
-- reproducible Python and R workflows
+- notebook plan for research reporting
 
-## Professional scope
+## Appropriate use
 
-These materials are for synthetic-data demonstration, research education, article support, reproducible workflow design, and professional interpretation training.
+Use this repository for:
 
-They are not psychological tests, screening tools, diagnostic systems, hiring tools, admissions tools, student-ranking systems, employee-evaluation systems, or individual assessment instruments.
+- synthetic-data demonstration
+- research-method teaching
+- positive psychology article support
+- intervention planning examples
+- program-evaluation design
+- psychometrics education
+- responsible-use documentation
 
-## Recommended professional use
+## Inappropriate use
 
-Use these files to understand how a positive psychology research repository can organize construct theory, measurement evidence, analytic workflows, data documentation, and ethical interpretation. Replace synthetic data with approved research data only when proper consent, IRB or ethics review where applicable, data protection, and analytic plans are in place.
+Do not use this repository for:
+
+- psychological diagnosis
+- individual assessment
+- employee evaluation
+- student ranking
+- hiring
+- admissions
+- discipline
+- workplace surveillance
+- predicting real individual outcomes
+- pressuring people to endure harmful conditions

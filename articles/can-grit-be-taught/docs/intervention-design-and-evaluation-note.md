@@ -2,57 +2,61 @@
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
-## Intervention framing
+## Intervention premise
 
-A professional positive psychology intervention should not merely tell people to "be grittier." It should create conditions under which adaptive persistence can develop.
+A responsible grit-support intervention should not simply tell people to try harder. It should create conditions and practices that make adaptive persistence more likely.
 
-Potential intervention components:
+## Possible intervention components
 
 - goal clarification
-- values and purpose reflection
-- deliberate practice routines
+- purpose and values reflection
 - feedback literacy
-- self-regulation planning
-- recovery planning
+- deliberate-practice planning
+- implementation intentions
 - setback interpretation
+- recovery planning
 - social support mapping
 - adaptive quitting and goal revision
 - burnout prevention
 - institutional support review
 
-## Evaluation design
+## Mechanisms of change
 
-Possible evaluation approaches include:
+The intervention may work through:
 
-- pre-post design
+- clearer goals
+- stronger purpose alignment
+- improved feedback responsiveness
+- better planning and routines
+- increased recovery capacity
+- increased social support
+- reduced shame after setbacks
+- more adaptive interpretation of failure
+- more realistic distinction between persistence and overpersistence
+
+## Evaluation design options
+
+- randomized controlled trial
 - waitlist comparison
-- randomized controlled trial where ethical and feasible
-- longitudinal cohort design
+- quasi-experimental design
+- pre-post longitudinal design
 - mixed-methods evaluation
 - implementation study
 - process evaluation
-- fidelity assessment
-- subgroup analysis
 - equity-focused evaluation
 
-## Outcome domains
+## Safety outcomes
 
-Measure more than achievement. Include:
+A professional evaluation should monitor:
 
-- adaptive persistence
-- wellbeing
 - burnout risk
-- recovery capacity
-- goal clarity
-- purpose alignment
-- help-seeking
-- belonging
-- perceived support
-- perceived autonomy
-- ethical and contextual fit
-
-## Professional caution
-
-An intervention should not shift responsibility for structural problems onto individuals. If workload, unsafe conditions, discrimination, poverty, poor instruction, or institutional failure are driving outcomes, grit language can become harmful unless the environment changes too.
+- shame
+- stress
+- wellbeing
+- autonomy
+- perceived coercion
+- overpersistence risk
+- intervention acceptability
+- differential effects across groups

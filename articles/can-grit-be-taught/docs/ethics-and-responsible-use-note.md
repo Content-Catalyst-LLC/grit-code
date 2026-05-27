@@ -2,54 +2,51 @@
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
 ## Appropriate use
 
-These files are appropriate for:
+These materials are appropriate for:
 
 - synthetic-data demonstration
-- research methods teaching
-- positive psychology article support
-- reproducible workflow design
+- intervention planning
 - psychometrics education
-- professional interpretation training
-- intervention planning examples
-- ethical limitations documentation
+- program-evaluation examples
+- professional positive psychology research methods
+- ethical interpretation training
 
 ## Inappropriate use
 
-Do not use these files for:
+Do not use these materials for:
 
 - hiring
 - admissions
 - student ranking
 - employee evaluation
-- discipline
 - psychological diagnosis
 - individual assessment
+- discipline
 - workplace surveillance
-- predicting individual success
-- determining access to services
-- explaining away inequity
+- predicting individual achievement
+- deciding who deserves support
 - pressuring people to endure harmful conditions
 
-## Ethical principles
+## Ethical safeguards
 
-Professional use should protect:
+Any real grit-support intervention should protect:
 
 - autonomy
 - consent
 - privacy
-- dignity
 - cultural context
 - developmental appropriateness
 - disability access
-- fairness
 - wellbeing
-- interpretive humility
+- recovery
+- fairness
+- dignity
 - institutional accountability
 
 ## Responsible interpretation
 
-Grit-related language should never be used to blame people for outcomes shaped by poverty, discrimination, trauma, unsafe institutions, poor instruction, inaccessible systems, unsupported caregiving, or lack of opportunity.
+A grit intervention should never be used to shift responsibility away from poor instruction, unsafe workplaces, discrimination, poverty, inaccessible systems, unsupported caregiving, or organizational failure.

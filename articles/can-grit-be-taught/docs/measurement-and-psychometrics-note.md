@@ -2,44 +2,43 @@
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
 ## Measurement purpose
 
-This folder uses synthetic survey-style data to demonstrate professional measurement thinking. It does not provide a validated instrument and should not be used for individual scoring.
+This folder uses synthetic survey-style data to demonstrate how professional positive psychologists might evaluate a grit-support intervention. The materials do not provide a validated scale.
 
-## Measurement concerns for grit-related constructs
+## Recommended measurement domains
 
-Professional positive psychology work should consider:
+- perseverance of effort
+- consistency of interests
+- adaptive persistence
+- purpose alignment
+- feedback responsiveness
+- recovery capacity
+- self-regulation planning
+- social support
+- burnout risk
+- overpersistence risk
+- wellbeing
+- goal progress
+- intervention acceptability
 
-- item wording and construct coverage
-- facet structure
-- internal consistency
-- test-retest reliability
-- convergent validity
-- discriminant validity
-- criterion-related validity
-- measurement invariance across groups
-- developmental appropriateness
-- cultural and linguistic fit
-- response bias and social desirability
-- ceiling effects in high-achieving samples
-- range restriction in selective populations
-- contextual confounding
+## Psychometric checks
 
-## Suggested analytic checks
+Professional evaluation should include:
 
-1. Inspect item distributions.
-2. Reverse-code relevant items where necessary.
-3. Estimate internal consistency for facet and total scales.
-4. Examine item-total correlations.
-5. Compare facet-level and total-score interpretations.
-6. Test associations with theoretically relevant constructs.
-7. Check whether the construct predicts outcomes beyond plausible covariates.
-8. Interpret effect sizes, not only significance.
-9. Avoid high-stakes individual classification.
-10. Document limitations clearly.
+1. item distribution checks
+2. missing-data review
+3. reliability estimates for multi-item scales
+4. item-total correlations
+5. baseline equivalence
+6. pre-post change analysis
+7. intervention effect estimation
+8. moderation by support, stress, age, or developmental stage
+9. burnout and wellbeing safety monitoring
+10. interpretation of effect sizes, not only statistical significance
 
 ## Professional caution
 
-A grit score should not be treated as a moral judgment, diagnostic label, employment criterion, admissions criterion, or explanation for unequal outcomes. Measurement must be paired with context.
+A self-report increase in grit does not prove durable development. Follow-up, behavioral indicators, implementation quality, and context-sensitive interpretation are necessary.

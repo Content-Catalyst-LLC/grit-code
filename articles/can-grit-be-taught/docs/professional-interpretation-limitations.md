@@ -2,30 +2,31 @@
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
-## What can be interpreted
+## What this scaffold can support
 
 The synthetic workflows can illustrate:
 
-- how grit-related constructs might be represented in research data
-- how facet scores may differ from total scores
-- how reliability can be estimated
-- how developmental or contextual variables may shape interpretation
-- how outcomes can be modeled with covariates
-- why support, recovery, feedback, opportunity, and stress matter
+- how to organize intervention data
+- how to calculate basic reliability estimates
+- how to compare pre- and post-intervention outcomes
+- how to model treatment effects
+- how to test moderation by support or stress
+- how to monitor burnout risk as a safety outcome
+- how to report limitations responsibly
 
-## What cannot be interpreted
+## What this scaffold cannot support
 
 These materials cannot determine:
 
+- whether grit can be taught universally
 - whether a real person is gritty
-- whether a real person should be admitted, hired, promoted, retained, disciplined, or evaluated
-- whether someone’s success or struggle is caused by grit
-- whether a school, workplace, or program should rank people by grit
-- whether a person’s decision to quit is adaptive or avoidant without deep context
-- whether an intervention is effective without proper evaluation
+- whether a real intervention is effective
+- whether someone should be selected, hired, admitted, promoted, disciplined, or evaluated
+- whether grit causes an individual outcome
+- whether persistence is adaptive without contextual evidence
 
-## Core limitation
+## Professional limitation
 
-Grit research can be useful, but it is vulnerable to misuse when interpreted as a simple character explanation for complex outcomes. Professional interpretation must include measurement limits, developmental context, and structural conditions.
+The central limitation is that grit is not a standalone solution. It is embedded in developmental, social, institutional, cultural, and material conditions. Intervention claims must be modest, measured, and harm-aware.

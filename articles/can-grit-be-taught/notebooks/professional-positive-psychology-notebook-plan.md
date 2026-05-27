@@ -2,25 +2,25 @@
 
 ## Article
 
-**Can Grit Be Taught**
+**Can Grit Be Taught?**
 
 ## Notebook sections
 
-1. Construct definition and theory frame.
-2. Data dictionary and synthetic survey design.
-3. Item distributions and missing-data checks.
-4. Perseverance and consistency facet scoring.
-5. Reliability demonstration.
-6. Item-total correlation demonstration.
-7. Convergent and discriminant validity checks.
-8. Developmental-stage descriptive summaries.
-9. Contextual interpretation: support, recovery, feedback, stress, and opportunity.
-10. Burnout and overpersistence cautions where relevant.
-11. Longitudinal/developmental modeling where relevant.
-12. Intervention or program-evaluation implications.
-13. Limitations and responsible-use statement.
-14. Professional interpretation summary.
+1. Construct definition: grit, adaptive persistence, and teachability.
+2. Theory of change for a grit-support intervention.
+3. Synthetic data dictionary and intervention design.
+4. Baseline equivalence by condition.
+5. Pre-post grit facet change.
+6. Adaptive persistence outcome modeling.
+7. Moderation by baseline support and stress.
+8. Burnout-risk safety monitoring.
+9. Wellbeing and recovery outcomes.
+10. Psychometrics demonstration and validity correlations.
+11. Equity and context interpretation.
+12. Intervention acceptability and implementation quality.
+13. Limitations for professional interpretation.
+14. Responsible-use statement.
 
 ## Required caution
 
-No notebook in this scaffold should be used for individual diagnosis, screening, employment selection, admissions decisions, student ranking, or employee evaluation.
+No notebook in this scaffold should be used for individual diagnosis, screening, hiring, admissions, student ranking, employee evaluation, discipline, or workplace surveillance.

@@ -1,0 +1,39 @@
+title: "Can Grit Be Taught?"
+slug: "can-grit-be-taught"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/can-grit-be-taught"
+description: "Companion professional positive-psychology research scaffold for an article on whether grit can be taught, including intervention design, adaptive persistence, psychometrics, developmental context, support, feedback, purpose, recovery, burnout-risk monitoring, moderation analysis, and responsible interpretation."
+methods:
+  - synthetic survey-style data generation
+  - intervention evaluation
+  - pre-post analysis
+  - moderation analysis
+  - psychometrics demonstration
+  - reliability analysis
+  - validity correlation analysis
+  - burnout safety monitoring
+  - professional interpretation limits
+  - responsible-use documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - positive psychology program evaluation
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
+  - not for diagnosis
