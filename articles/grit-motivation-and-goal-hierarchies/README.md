@@ -1,5 +1,46 @@
-# Grit Motivation And Goal Hierarchies
+# Grit, Motivation, and Goal Hierarchies
 
-Computational scaffolding for the article `grit-motivation-and-goal-hierarchies` in the Grit knowledge series.
+This article folder supports reproducible research examples for **Grit, Motivation, and Goal Hierarchies** in the Grit knowledge series.
 
-Examples are synthetic and educational. They are not clinical, diagnostic, hiring, educational-screening, or performance-assessment tools.
+The workflows use synthetic data to demonstrate how grit, motivation, and goal-hierarchy coherence can be modeled as related but distinct contributors to long-term progress:
+
+- perseverance of effort
+- consistency of interests
+- grit
+- intrinsic interest
+- identified value
+- purpose orientation
+- extrinsic pressure
+- motivation
+- superordinate goal clarity
+- mid-level planning
+- daily action alignment
+- goal-hierarchy coherence
+- social support
+- feedback quality
+- burnout
+- long-term progress
+
+## Repository purpose
+
+This scaffold is designed for article support, reproducible learning, research-method demonstration, and transparent computational examples. It is not designed for ranking, hiring, admissions, discipline, psychological diagnosis, employee evaluation, or assessment of real people.
+
+## Folder structure
+
+- `python/` — Python workflow for modeling grit, motivation, and goal hierarchy
+- `r/` — R workflow for goal coherence, motivation, and long-term progress
+- `julia/` — Julia synthetic-data sketch
+- `sql/` — SQL schema and analytical views
+- `c/`, `cpp/`, `fortran/`, `go/`, `rust/` — compact computational examples
+- `data/raw/` — small synthetic example dataset
+- `data/processed/` — generated modeled datasets
+- `docs/` — methods note, responsible-use note, and WordPress GitHub embed block
+- `notebooks/` — notebook planning notes
+- `outputs/figures/` — generated figures
+- `outputs/tables/` — generated tables
+
+## Responsible use
+
+These workflows use synthetic data. They should not be used to assess, score, select, discipline, hire, promote, or psychologically evaluate real individuals.
+
+The examples are intended to clarify how persistence, motivation, goal hierarchy, support, feedback, recovery, and progress can be modeled responsibly.

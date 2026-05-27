@@ -1,0 +1,33 @@
+title: "Grit, Motivation, and Goal Hierarchies"
+slug: "grit-motivation-and-goal-hierarchies"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-motivation-and-goal-hierarchies"
+description: "Companion research-code scaffold for an article on grit, motivation, and goal hierarchies, including perseverance, consistency of interests, intrinsic interest, identified value, purpose orientation, superordinate goals, mid-level planning, daily action alignment, goal coherence, burnout, social support, feedback, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - motivation component modeling
+  - goal-hierarchy coherence modeling
+  - profile classification
+  - contextual regression
+  - burnout and support modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for student ranking
+  - not for employee evaluation
