@@ -1,0 +1,40 @@
+title: "Situational Supports for Sustained Effort"
+slug: "situational-supports-for-sustained-effort"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/situational-supports-for-sustained-effort"
+description: "Companion professional positive-psychology research scaffold for an article on situational supports for sustained effort, including autonomy support, feedback quality, belonging, mentoring access, recovery capacity, material resources, fairness, psychological safety, chronic stress, blocked opportunity, adaptive persistence, burnout risk, goal progress, wellbeing, and responsible interpretation."
+methods:
+  - synthetic survey-style data generation
+  - situational-support modeling
+  - person-environment interaction modeling
+  - moderation analysis
+  - psychometrics demonstration
+  - reliability analysis
+  - contextual validity analysis
+  - burnout safety monitoring
+  - goal-progress modeling
+  - professional interpretation limits
+  - responsible-use documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - positive psychology program evaluation
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
+  - not for diagnosis

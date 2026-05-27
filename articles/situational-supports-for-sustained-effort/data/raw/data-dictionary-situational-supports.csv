@@ -1,0 +1,21 @@
+variable,type,description,professional_note
+participant_id,integer,Synthetic participant identifier,No real participant data
+age,integer,Synthetic age in years,Used only for demonstration
+developmental_stage,categorical,Synthetic developmental stage,Not a diagnostic classification
+perseverance_effort,float,Synthetic perseverance facet,Not a validated scale
+consistency_interests,float,Synthetic consistency facet,Not a validated scale
+grit_composite,float,Synthetic composite of perseverance and consistency,Not an individual assessment
+autonomy_support,float,Synthetic autonomy support,Context-dependent
+feedback_quality,float,Synthetic feedback quality,Depends on fairness and psychological safety
+belonging,float,Synthetic belonging score,Context and identity dependent
+mentoring_access,float,Synthetic mentoring access,Structural and relational condition
+recovery_capacity,float,Synthetic recovery capacity,Partly individual and partly contextual
+material_resources,float,Synthetic material support,Practical feasibility condition
+fairness,float,Synthetic fairness score,Requires institutional context in real research
+psychological_safety,float,Synthetic psychological safety,Environment-level construct
+chronic_stress,float,Synthetic chronic stress,Not a clinical measure
+blocked_opportunity,float,Synthetic blocked opportunity,Structural/contextual barrier
+adaptive_persistence,float,Synthetic adaptive persistence,Not an individual assessment
+burnout_risk,float,Synthetic burnout risk,Not a clinical measure
+goal_progress,float,Synthetic goal progress,Not an objective outcome
+wellbeing,float,Synthetic wellbeing,Not a clinical measure

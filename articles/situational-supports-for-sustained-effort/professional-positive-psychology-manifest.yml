@@ -1,30 +1,35 @@
-article_title: "Situational Supports For Sustained Effort"
+article_title: "Situational Supports for Sustained Effort"
 article_slug: "situational-supports-for-sustained-effort"
 upgrade: "professional-positive-psychology-research-scaffold"
 repository: "grit-code"
 github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/situational-supports-for-sustained-effort"
-created_or_updated_by_script: "upgrade-all-grit-folders-professional-positive-psychology-macos.sh"
 professional_assets:
+  - README.md
   - README-professional-positive-psychology.md
+  - article-metadata.yml
   - docs/construct-definition.md
+  - docs/situational-support-taxonomy.md
   - docs/measurement-and-psychometrics-note.md
-  - docs/scale-and-facet-documentation.md
-  - docs/intervention-design-and-evaluation-note.md
-  - docs/professional-interpretation-limitations.md
   - docs/ethics-and-responsible-use-note.md
+  - docs/professional-interpretation-limitations.md
   - docs/synthetic-data-codebook.md
-  - data/raw/synthetic-positive-psychology-survey.csv
-  - data/raw/data-dictionary-positive-psychology.csv
-  - python/psychometrics_reliability_and_validity.py
-  - python/longitudinal_developmental_grit_model.py
-  - r/psychometrics-reliability-validity.R
-  - r/longitudinal-developmental-grit-model.R
-  - sql/positive-psychology-research-schema.sql
+  - docs/github-embed-wordpress.html
+  - data/raw/situational-supports-synthetic-survey.csv
+  - data/raw/data-dictionary-situational-supports.csv
+  - python/situational_supports_model.py
+  - python/situational_supports_psychometrics.py
+  - r/situational-supports-model.R
+  - r/situational-supports-psychometrics.R
+  - sql/situational-supports-schema.sql
 scope:
   - synthetic data
-  - positive psychology research methods
+  - professional positive psychology
+  - person-environment fit
+  - situational supports
+  - adaptive persistence
   - psychometrics education
-  - longitudinal/developmental modeling
+  - contextual moderation
+  - burnout safety monitoring
   - responsible-use documentation
 not_for:
   - individual assessment

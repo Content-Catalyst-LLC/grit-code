@@ -2,45 +2,59 @@
 
 ## Article
 
-**Situational Supports For Sustained Effort**
+**Situational Supports for Sustained Effort**
 
 ## Primary construct
 
-This article belongs to the Grit knowledge series. In professional positive psychology, grit should be treated as a theory-linked construct, not as a casual synonym for toughness, motivation, compliance, or productivity.
+This article examines sustained effort as a person-environment process. Grit and perseverance matter, but they are expressed inside situations that can support, drain, distort, or sustain long-term effort.
 
-A careful construct definition should specify:
+## Core constructs
 
-1. **Conceptual domain** — what psychological phenomenon is being studied.
-2. **Facets** — whether the article emphasizes perseverance of effort, consistency of interests, long-term goal commitment, recovery after setbacks, purpose, overpersistence, adaptive quitting, or developmental change.
-3. **Boundaries** — what the construct is not.
-4. **Developmental context** — whether the construct is being interpreted in adolescence, emerging adulthood, adulthood, later life, school, work, or clinical-adjacent settings.
-5. **Environmental conditions** — supports, constraints, opportunity, feedback, recovery, belonging, autonomy, and institutional context.
-6. **Responsible interpretation** — what cannot be inferred from a single score or isolated behavior.
+### Sustained effort
 
-## Core grit facets
+Continued behavioral investment toward a valued goal across time, difficulty, feedback, delay, or setback.
 
-- **Perseverance of effort:** sustained effort despite difficulty, delay, boredom, setback, or slow progress.
-- **Consistency of interests:** relative stability of long-term interests or goal commitments over time.
-- **Long-term goal orientation:** the ability to organize present effort around a valued future direction.
-- **Adaptive persistence:** persistence that remains responsive to feedback, recovery, health, ethics, and changing evidence.
-- **Contextual support:** the social and institutional conditions that make sustained effort possible.
+### Adaptive persistence
+
+Sustained effort that remains responsive to evidence, feedback, recovery, health, dignity, autonomy, and purpose.
+
+### Situational support
+
+The environmental, relational, institutional, and material conditions that make sustained effort possible, meaningful, and humane.
+
+### Autonomy support
+
+The degree to which a setting allows voice, rationale, ownership, and self-endorsed effort.
+
+### Competence support
+
+The degree to which a setting provides clear standards, actionable feedback, appropriate challenge, practice structure, and visible progress.
+
+### Relatedness and belonging
+
+The degree to which a person feels recognized, supported, included, and connected in the setting.
+
+### Recovery capacity
+
+The emotional, physical, cognitive, and social conditions that allow a person to restore capacity after demand or setback.
+
+### Material support
+
+Time, money, tools, access, care support, health access, accommodation, and other practical resources required for sustained effort.
 
 ## Construct boundaries
 
-Grit should not be conflated with:
+Situational support should not be confused with:
 
-- general achievement
-- intelligence
-- moral worth
-- self-control alone
-- conscientiousness as a whole
-- trauma resilience
-- compliance
-- productivity
-- willingness to endure exploitation
-- absence of distress
-- refusal to quit under all circumstances
+- lowering standards
+- removing all difficulty
+- excusing poor effort
+- eliminating personal agency
+- comfort at all times
+- lack of accountability
+- generic positivity
+- motivational climate alone
 
 ## Professional interpretation
 
-The construct should be interpreted as part of a broader psychological and social system. A professional interpretation should consider motivation, goals, feedback, identity, development, opportunity, health, stress, social support, cultural context, and institutional conditions.
+A professional interpretation should ask whether sustained effort is being supported by autonomy, competence, belonging, recovery, resources, and fairness, or drained by chronic stress, blocked opportunity, overload, humiliation, exclusion, and inaccessible systems.

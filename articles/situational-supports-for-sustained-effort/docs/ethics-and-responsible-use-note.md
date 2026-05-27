@@ -2,37 +2,36 @@
 
 ## Article
 
-**Situational Supports For Sustained Effort**
+**Situational Supports for Sustained Effort**
 
 ## Appropriate use
 
-These files are appropriate for:
+These materials are appropriate for:
 
 - synthetic-data demonstration
-- research methods teaching
+- research-method teaching
 - positive psychology article support
-- reproducible workflow design
+- environment and program evaluation
 - psychometrics education
-- professional interpretation training
+- responsible interpretation training
 - intervention planning examples
-- ethical limitations documentation
 
 ## Inappropriate use
 
-Do not use these files for:
+Do not use these materials for:
 
 - hiring
 - admissions
 - student ranking
 - employee evaluation
-- discipline
 - psychological diagnosis
 - individual assessment
+- discipline
 - workplace surveillance
-- predicting individual success
-- determining access to services
-- explaining away inequity
-- pressuring people to endure harmful conditions
+- predicting individual achievement
+- deciding who deserves support
+- excusing low expectations
+- excusing harmful institutions
 
 ## Ethical principles
 
@@ -47,9 +46,10 @@ Professional use should protect:
 - disability access
 - fairness
 - wellbeing
+- recovery
 - interpretive humility
 - institutional accountability
 
 ## Responsible interpretation
 
-Grit-related language should never be used to blame people for outcomes shaped by poverty, discrimination, trauma, unsafe institutions, poor instruction, inaccessible systems, unsupported caregiving, or lack of opportunity.
+Situational support language should not erase agency, but it should prevent simplistic blame. When sustained effort falters, professionals should examine both the person’s goals and the environment’s supports.

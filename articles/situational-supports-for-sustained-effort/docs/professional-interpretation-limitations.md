@@ -2,30 +2,30 @@
 
 ## Article
 
-**Situational Supports For Sustained Effort**
+**Situational Supports for Sustained Effort**
 
-## What can be interpreted
+## What this scaffold can support
 
 The synthetic workflows can illustrate:
 
-- how grit-related constructs might be represented in research data
-- how facet scores may differ from total scores
-- how reliability can be estimated
-- how developmental or contextual variables may shape interpretation
-- how outcomes can be modeled with covariates
-- why support, recovery, feedback, opportunity, and stress matter
+- how to represent situational supports in research data
+- how to model adaptive persistence as a person-environment process
+- how to test whether support moderates the relationship between grit and effort
+- how to model burnout risk as a safety outcome
+- how to estimate associations among support, goal progress, and wellbeing
+- how to document limits and ethical cautions
 
-## What cannot be interpreted
+## What this scaffold cannot support
 
 These materials cannot determine:
 
-- whether a real person is gritty
-- whether a real person should be admitted, hired, promoted, retained, disciplined, or evaluated
-- whether someone’s success or struggle is caused by grit
-- whether a school, workplace, or program should rank people by grit
-- whether a person’s decision to quit is adaptive or avoidant without deep context
-- whether an intervention is effective without proper evaluation
+- whether a real person has enough grit
+- whether a real person deserves support
+- whether an institution is fair without real-world audit evidence
+- whether a program is effective without proper evaluation
+- whether someone should be admitted, hired, promoted, disciplined, or evaluated
+- whether persistence is adaptive without contextual evidence
 
-## Core limitation
+## Professional limitation
 
-Grit research can be useful, but it is vulnerable to misuse when interpreted as a simple character explanation for complex outcomes. Professional interpretation must include measurement limits, developmental context, and structural conditions.
+Situational supports are complex. They include subjective perceptions, material realities, institutional rules, cultural meanings, and relational conditions. Quantitative scores should be interpreted with qualitative context and professional judgment.
