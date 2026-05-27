@@ -1,0 +1,31 @@
+title: "What the Meta-Analyses Say About Grit"
+slug: "what-the-meta-analyses-say-about-grit"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/what-the-meta-analyses-say-about-grit"
+description: "Companion research-code scaffold for a deep dive on grit meta-analyses, pooled effect sizes, perseverance of effort, consistency of interests, heterogeneity, measurement limits, construct overlap, academic achievement, and responsible evidence synthesis."
+methods:
+  - synthetic study-level data generation
+  - Fisher z transformation
+  - fixed-effect meta-analysis demonstration
+  - random-effects meta-analysis demonstration
+  - facet-level pooled correlation comparison
+  - heterogeneity calculation
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not a substitute for real systematic review
+  - not a substitute for real meta-analysis
+  - not for high-stakes policy claims
