@@ -1,0 +1,35 @@
+title: "The Short Grit Scale and the Problem of Measurement"
+slug: "the-short-grit-scale-and-the-problem-of-measurement"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/the-short-grit-scale-and-the-problem-of-measurement"
+description: "Companion research-code scaffold for an article on the Short Grit Scale, short-form psychological measurement, perseverance of effort, consistency of interest, observed-score interpretation, measurement error, construct overlap, and ethical use."
+methods:
+  - synthetic data generation
+  - short-scale measurement modeling
+  - grit facet modeling
+  - observed-score interpretation
+  - measurement-error demonstration
+  - reliability-style summary
+  - regression comparison
+  - contextual modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for student ranking
+  - not for employee evaluation
+  - does not reproduce copyrighted scale items
