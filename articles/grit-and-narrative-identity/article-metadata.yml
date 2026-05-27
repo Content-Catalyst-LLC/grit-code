@@ -1,0 +1,35 @@
+title: "Grit and Narrative Identity"
+slug: "grit-and-narrative-identity"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-and-narrative-identity"
+description: "Companion research-code scaffold for an article on grit and narrative identity, including perseverance, consistency of interests, narrative coherence, agency, meaning-making, future orientation, social support, feedback, opportunity, institutional trust, burnout, narrative strain, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - narrative identity composite modeling
+  - interaction modeling
+  - contextual persistence modeling
+  - burnout and narrative strain modeling
+  - narrative profile classification
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
