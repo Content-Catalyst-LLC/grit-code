@@ -1,0 +1,20 @@
+variable,type,description,professional_note
+participant_id,integer,Synthetic participant identifier,No real participant data
+age,integer,Synthetic age in years,Used only for demonstration
+developmental_stage,categorical,Synthetic life-course category,Not a diagnostic or developmental classification
+perseverance_item_1,integer,Illustrative perseverance item,Not a validated scale item
+perseverance_item_2,integer,Illustrative perseverance item,Not a validated scale item
+perseverance_item_3,integer,Illustrative perseverance item,Not a validated scale item
+perseverance_item_4,integer,Illustrative perseverance item,Not a validated scale item
+consistency_item_1,integer,Illustrative consistency item,Not a validated scale item
+consistency_item_2,integer,Illustrative consistency item,Not a validated scale item
+consistency_item_3,integer,Illustrative consistency item,Not a validated scale item
+consistency_item_4,integer,Illustrative consistency item,Not a validated scale item
+purpose_alignment,float,Synthetic purpose alignment score,Context-sensitive construct
+feedback_responsiveness,float,Synthetic feedback responsiveness score,Depends on feedback quality and safety
+recovery_capacity,float,Synthetic recovery capacity score,Partly individual and partly contextual
+social_support,float,Synthetic perceived support score,Context and relationship dependent
+burnout_risk,float,Synthetic burnout-risk score,Not a clinical measure
+adaptive_persistence,float,Synthetic adaptive persistence score,Not an individual assessment
+wellbeing,float,Synthetic wellbeing score,Not a clinical measure
+goal_progress,float,Synthetic goal progress score,Not an objective outcome
