@@ -1,0 +1,30 @@
+title: "Perseverance and Passion for Long-Term Goals"
+slug: "perseverance-and-passion-for-long-term-goals"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/perseverance-and-passion-for-long-term-goals"
+description: "Companion research-code scaffold for an article on perseverance, durable passion, long-term goals, grit measurement, achievement, conscientiousness, social support, and adaptive persistence."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - regression comparison
+  - construct-overlap demonstration
+  - contextual modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for employee evaluation
