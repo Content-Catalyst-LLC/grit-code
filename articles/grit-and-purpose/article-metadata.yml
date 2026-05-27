@@ -1,0 +1,35 @@
+title: "Grit and Purpose"
+slug: "grit-and-purpose"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-and-purpose"
+description: "Companion research-code scaffold for an article on grit and purpose, including perseverance, consistency of interests, personal meaning, long-term direction, beyond-the-self contribution, motivation, autonomy support, social support, feedback, opportunity, burnout, long-term persistence, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - purpose composite modeling
+  - interaction modeling
+  - contextual persistence modeling
+  - burnout and support modeling
+  - purpose profile classification
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
