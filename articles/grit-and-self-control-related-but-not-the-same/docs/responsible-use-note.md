@@ -1,0 +1,17 @@
+# Responsible Use Note
+
+These files use synthetic data and are intended for article support, reproducible research education, and methodological demonstration.
+
+They should not be used for:
+
+- hiring
+- admissions
+- discipline
+- employee evaluation
+- student ranking
+- psychological diagnosis
+- individual assessment
+- workplace surveillance
+- predicting real individual achievement
+
+Grit and self-control should be interpreted with attention to measurement limits, construct overlap, social support, prior achievement, burnout, developmental context, institutional conditions, and the risk of turning regulation or persistence into a moral burden.

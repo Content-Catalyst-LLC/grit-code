@@ -1,0 +1,33 @@
+title: "Grit and Self-Control: Related but Not the Same"
+slug: "grit-and-self-control-related-but-not-the-same"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-and-self-control-related-but-not-the-same"
+description: "Companion research-code scaffold for an article on grit and self-control as related but separable constructs, including daily self-regulation, long-term goal pursuit, impulse control, perseverance, consistency of interests, conscientiousness, burnout, social support, and contextual modeling."
+methods:
+  - synthetic data generation
+  - self-control modeling
+  - grit facet modeling
+  - profile classification
+  - contextual regression
+  - daily task completion modeling
+  - long-term goal progress modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for student ranking
+  - not for employee evaluation
