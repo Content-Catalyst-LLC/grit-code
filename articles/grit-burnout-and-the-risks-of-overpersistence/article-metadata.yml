@@ -1,0 +1,37 @@
+title: "Grit, Burnout, and the Risks of Overpersistence"
+slug: "grit-burnout-and-the-risks-of-overpersistence"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-burnout-and-the-risks-of-overpersistence"
+description: "Companion research-code scaffold for an article on grit, burnout, and overpersistence, including perseverance, consistency of interests, demand intensity, goal rigidity, identity pressure, sunk cost, recovery capacity, social support, autonomy, feedback responsiveness, goal fit, burnout risk, sustainable persistence, adaptive quitting, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - overpersistence modeling
+  - burnout risk modeling
+  - sustainable persistence modeling
+  - demand and recovery modeling
+  - identity pressure and sunk-cost modeling
+  - contextual regression
+  - profile classification
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
