@@ -6,40 +6,42 @@
 
 ## Measurement purpose
 
-This folder uses synthetic survey-style data to demonstrate professional measurement thinking. It does not provide a validated instrument and should not be used for individual scoring.
+This folder uses synthetic survey-style data to demonstrate professional measurement thinking. The materials do not provide a validated scale.
 
-## Measurement concerns for grit-related constructs
+## Recommended measurement domains
 
-Professional positive psychology work should consider:
+- autonomy support
+- competence support
+- feedback quality
+- belonging
+- mentoring access
+- psychological safety
+- recovery design
+- material resources
+- fairness
+- adaptive quitting norms
+- chronic stress
+- blocked opportunity
+- adaptive persistence
+- burnout risk
+- goal progress
+- wellbeing
 
-- item wording and construct coverage
-- facet structure
-- internal consistency
-- test-retest reliability
-- convergent validity
-- discriminant validity
-- criterion-related validity
-- measurement invariance across groups
-- developmental appropriateness
-- cultural and linguistic fit
-- response bias and social desirability
-- ceiling effects in high-achieving samples
-- range restriction in selective populations
-- contextual confounding
+## Psychometric checks
 
-## Suggested analytic checks
+Professional evaluation should include:
 
-1. Inspect item distributions.
-2. Reverse-code relevant items where necessary.
-3. Estimate internal consistency for facet and total scales.
-4. Examine item-total correlations.
-5. Compare facet-level and total-score interpretations.
-6. Test associations with theoretically relevant constructs.
-7. Check whether the construct predicts outcomes beyond plausible covariates.
-8. Interpret effect sizes, not only significance.
-9. Avoid high-stakes individual classification.
-10. Document limitations clearly.
+1. item distribution checks
+2. missing-data review
+3. reliability estimates for environmental-design composites
+4. item-total correlations
+5. contextual validity checks
+6. moderation analysis
+7. comparison of grit-only and environmental-design models
+8. burnout and wellbeing safety monitoring
+9. equity-focused subgroup analysis
+10. qualitative context where possible
 
 ## Professional caution
 
-A grit score should not be treated as a moral judgment, diagnostic label, employment criterion, admissions criterion, or explanation for unequal outcomes. Measurement must be paired with context.
+Environmental-design measures should not be used to label individuals. They are best used to evaluate programs, learning environments, workplaces, teams, and institutional conditions.

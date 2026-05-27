@@ -6,41 +6,49 @@
 
 ## Primary construct
 
-This article belongs to the Grit knowledge series. In professional positive psychology, grit should be treated as a theory-linked construct, not as a casual synonym for toughness, motivation, compliance, or productivity.
+This article examines grit-supportive environmental design. The central construct is not grit as a private trait alone, but the designed conditions under which sustained effort becomes adaptive, meaningful, recoverable, dignified, and connected to progress.
 
-A careful construct definition should specify:
+## Core constructs
 
-1. **Conceptual domain** — what psychological phenomenon is being studied.
-2. **Facets** — whether the article emphasizes perseverance of effort, consistency of interests, long-term goal commitment, recovery after setbacks, purpose, overpersistence, adaptive quitting, or developmental change.
-3. **Boundaries** — what the construct is not.
-4. **Developmental context** — whether the construct is being interpreted in adolescence, emerging adulthood, adulthood, later life, school, work, or clinical-adjacent settings.
-5. **Environmental conditions** — supports, constraints, opportunity, feedback, recovery, belonging, autonomy, and institutional context.
-6. **Responsible interpretation** — what cannot be inferred from a single score or isolated behavior.
+### Grit
 
-## Core grit facets
+Perseverance and passion for long-term goals, interpreted professionally as part of a broader person-environment system.
 
-- **Perseverance of effort:** sustained effort despite difficulty, delay, boredom, setback, or slow progress.
-- **Consistency of interests:** relative stability of long-term interests or goal commitments over time.
-- **Long-term goal orientation:** the ability to organize present effort around a valued future direction.
-- **Adaptive persistence:** persistence that remains responsive to feedback, recovery, health, ethics, and changing evidence.
-- **Contextual support:** the social and institutional conditions that make sustained effort possible.
+### Adaptive persistence
+
+Sustained effort that remains responsive to evidence, feedback, recovery, health, dignity, autonomy, and purpose.
+
+### Environmental design
+
+The intentional structuring of conditions, norms, resources, feedback systems, roles, schedules, supports, and pathways that shape behavior and development.
+
+### Grit-supportive environment
+
+An environment that makes sustained effort possible through autonomy, competence support, belonging, mentoring, psychological safety, recovery, material resources, fairness, and credible opportunity.
+
+### Recovery design
+
+The intentional protection of rest, pacing, restoration, workload realism, and health-supportive routines.
+
+### Adaptive quitting norms
+
+Norms and practices that allow people to revise, redirect, or leave goals when continued effort no longer serves learning, wellbeing, dignity, ethics, or purpose.
 
 ## Construct boundaries
 
-Grit should not be conflated with:
+Grit-supportive design should not be confused with:
 
-- general achievement
-- intelligence
-- moral worth
-- self-control alone
-- conscientiousness as a whole
-- trauma resilience
-- compliance
-- productivity
-- willingness to endure exploitation
-- absence of distress
-- refusal to quit under all circumstances
+- lowering standards
+- removing challenge
+- comfort at all times
+- eliminating personal responsibility
+- motivational slogans
+- surveillance
+- compliance training
+- endless endurance
+- institutional self-protection
+- resilience washing
 
 ## Professional interpretation
 
-The construct should be interpreted as part of a broader psychological and social system. A professional interpretation should consider motivation, goals, feedback, identity, development, opportunity, health, stress, social support, cultural context, and institutional conditions.
+A professional interpretation should ask whether an environment makes persistence adaptive or merely demands endurance. The design should be evaluated by effort quality, feedback use, recovery, wellbeing, fairness, opportunity, and burnout risk.

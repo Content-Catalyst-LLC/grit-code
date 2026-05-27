@@ -1,0 +1,40 @@
+title: "Designing Environments That Support Grit"
+slug: "designing-environments-that-support-grit"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/designing-environments-that-support-grit"
+description: "Companion professional positive-psychology research scaffold for an article on designing environments that support grit, including autonomy support, competence support, feedback quality, belonging, mentoring access, recovery design, material resources, fairness, psychological safety, adaptive quitting norms, chronic stress, blocked opportunity, adaptive persistence, burnout risk, goal progress, wellbeing, and responsible interpretation."
+methods:
+  - synthetic survey-style data generation
+  - environmental-design modeling
+  - person-environment interaction modeling
+  - moderation analysis
+  - psychometrics demonstration
+  - reliability analysis
+  - contextual validity analysis
+  - burnout safety monitoring
+  - goal-progress modeling
+  - professional interpretation limits
+  - responsible-use documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - positive psychology program evaluation
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
+  - not for diagnosis

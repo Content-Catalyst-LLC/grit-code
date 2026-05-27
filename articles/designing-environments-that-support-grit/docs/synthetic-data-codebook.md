@@ -1,31 +1,37 @@
 # Synthetic Data Codebook
 
-## Article
-
-**Designing Environments That Support Grit**
-
 ## Dataset
 
-File: `data/raw/synthetic-positive-psychology-survey.csv`
+`data/raw/designing-environments-that-support-grit-synthetic-survey.csv`
 
-This dataset is synthetic. It was created for demonstration and repository scaffolding only.
+This dataset is synthetic and exists for demonstration only.
 
 ## Variables
 
 - `participant_id` — synthetic participant identifier
-- `age` — synthetic age value
+- `age` — synthetic age
 - `developmental_stage` — adolescence, emerging_adulthood, adulthood, later_adulthood
-- `perseverance_item_1` to `perseverance_item_4` — illustrative perseverance items
-- `consistency_item_1` to `consistency_item_4` — illustrative consistency-of-interests items
-- `purpose_alignment` — synthetic purpose alignment score
-- `feedback_responsiveness` — synthetic feedback responsiveness score
-- `recovery_capacity` — synthetic recovery capacity score
-- `social_support` — synthetic social support score
-- `burnout_risk` — synthetic burnout-risk score
-- `adaptive_persistence` — synthetic adaptive persistence score
-- `wellbeing` — synthetic wellbeing score
-- `goal_progress` — synthetic goal progress score
+- `perseverance_effort` — synthetic perseverance facet
+- `consistency_interests` — synthetic consistency facet
+- `grit_composite` — synthetic composite of perseverance and consistency
+- `autonomy_support` — synthetic autonomy-support score
+- `competence_support` — synthetic competence-support score
+- `feedback_quality` — synthetic feedback-quality score
+- `belonging` — synthetic belonging score
+- `mentoring_access` — synthetic mentoring-access score
+- `recovery_design` — synthetic recovery-design score
+- `material_resources` — synthetic material-support score
+- `fairness` — synthetic fairness score
+- `psychological_safety` — synthetic psychological-safety score
+- `adaptive_quitting_norms` — synthetic adaptive-quitting norms score
+- `chronic_stress` — synthetic chronic-stress score
+- `blocked_opportunity` — synthetic blocked-opportunity score
+- `environment_design_composite` — synthetic environmental-design composite
+- `adaptive_persistence` — synthetic adaptive-persistence outcome
+- `burnout_risk` — synthetic burnout-risk outcome
+- `goal_progress` — synthetic goal-progress outcome
+- `wellbeing` — synthetic wellbeing outcome
 
 ## Scale caution
 
-The item names are illustrative. They are not a validated grit scale. Do not use them as a real psychological instrument.
+These variables are not validated psychological measures. They are synthetic fields for workflow demonstration.
