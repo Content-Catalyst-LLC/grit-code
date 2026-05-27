@@ -6,21 +6,23 @@
 
 ## Notebook sections
 
-1. Construct definition and theory frame.
-2. Data dictionary and synthetic survey design.
-3. Item distributions and missing-data checks.
-4. Perseverance and consistency facet scoring.
-5. Reliability demonstration.
-6. Item-total correlation demonstration.
-7. Convergent and discriminant validity checks.
-8. Developmental-stage descriptive summaries.
-9. Contextual interpretation: support, recovery, feedback, stress, and opportunity.
-10. Burnout and overpersistence cautions where relevant.
-11. Longitudinal/developmental modeling where relevant.
-12. Intervention or program-evaluation implications.
-13. Limitations and responsible-use statement.
-14. Professional interpretation summary.
+1. Capstone construct synthesis: grit as adaptive persistence.
+2. Synthetic data dictionary and survey design.
+3. Developmental-stage summaries.
+4. Grit facet scoring.
+5. Construct correlation matrix.
+6. Grit-only adaptive-persistence model.
+7. Comparative adaptive-persistence model.
+8. Grit-by-environmental-support moderation.
+9. Goal-progress model.
+10. Burnout-risk safety model.
+11. Wellbeing model.
+12. Measurement humility and construct-overlap discussion.
+13. Equity, context, and institutional responsibility.
+14. Adaptive quitting and recovery safeguards.
+15. Professional interpretation limitations.
+16. Responsible-use statement.
 
 ## Required caution
 
-No notebook in this scaffold should be used for individual diagnosis, screening, employment selection, admissions decisions, student ranking, or employee evaluation.
+No notebook in this scaffold should be used for individual diagnosis, screening, hiring, admissions, student ranking, employee evaluation, discipline, or workplace surveillance.

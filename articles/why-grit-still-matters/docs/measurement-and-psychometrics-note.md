@@ -6,40 +6,45 @@
 
 ## Measurement purpose
 
-This folder uses synthetic survey-style data to demonstrate professional measurement thinking. It does not provide a validated instrument and should not be used for individual scoring.
+This folder uses synthetic survey-style data to demonstrate professional measurement thinking. The materials do not provide validated scales.
 
-## Measurement concerns for grit-related constructs
+## Recommended measurement domains
 
-Professional positive psychology work should consider:
+- perseverance of effort
+- consistency of interests
+- grit composite
+- self-control
+- conscientiousness
+- purpose alignment
+- feedback quality
+- practice quality
+- recovery capacity
+- environmental support
+- social support
+- autonomy support
+- chronic stress
+- demand intensity
+- blocked opportunity
+- adaptive persistence
+- goal progress
+- burnout risk
+- wellbeing
 
-- item wording and construct coverage
-- facet structure
-- internal consistency
-- test-retest reliability
-- convergent validity
-- discriminant validity
-- criterion-related validity
-- measurement invariance across groups
-- developmental appropriateness
-- cultural and linguistic fit
-- response bias and social desirability
-- ceiling effects in high-achieving samples
-- range restriction in selective populations
-- contextual confounding
+## Psychometric checks
 
-## Suggested analytic checks
+Professional evaluation should include:
 
-1. Inspect item distributions.
-2. Reverse-code relevant items where necessary.
-3. Estimate internal consistency for facet and total scales.
-4. Examine item-total correlations.
-5. Compare facet-level and total-score interpretations.
-6. Test associations with theoretically relevant constructs.
-7. Check whether the construct predicts outcomes beyond plausible covariates.
-8. Interpret effect sizes, not only significance.
-9. Avoid high-stakes individual classification.
-10. Document limitations clearly.
+1. item distribution checks
+2. facet-level interpretation
+3. construct correlation matrices
+4. comparison of grit-only and context-rich models
+5. moderation by environmental support
+6. goal-progress modeling
+7. burnout and wellbeing safety outcomes
+8. developmental-stage summaries
+9. equity-focused subgroup analysis where real data permit
+10. qualitative interpretation where possible
 
 ## Professional caution
 
-A grit score should not be treated as a moral judgment, diagnostic label, employment criterion, admissions criterion, or explanation for unequal outcomes. Measurement must be paired with context.
+A grit score should not be used as a high-stakes individual label. Responsible interpretation requires context, related constructs, safety outcomes, and institutional conditions.

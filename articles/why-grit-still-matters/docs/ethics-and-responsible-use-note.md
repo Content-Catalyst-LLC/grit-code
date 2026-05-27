@@ -6,32 +6,31 @@
 
 ## Appropriate use
 
-These files are appropriate for:
+These materials are appropriate for:
 
 - synthetic-data demonstration
-- research methods teaching
-- positive psychology article support
-- reproducible workflow design
+- research-method teaching
+- professional positive psychology article support
+- adaptive-persistence modeling
 - psychometrics education
-- professional interpretation training
-- intervention planning examples
-- ethical limitations documentation
+- responsible interpretation training
+- program-evaluation examples
 
 ## Inappropriate use
 
-Do not use these files for:
+Do not use these materials for:
 
 - hiring
 - admissions
 - student ranking
 - employee evaluation
-- discipline
 - psychological diagnosis
 - individual assessment
+- discipline
 - workplace surveillance
-- predicting individual success
-- determining access to services
-- explaining away inequity
+- predicting individual achievement
+- deciding who deserves support
+- excusing harmful institutions
 - pressuring people to endure harmful conditions
 
 ## Ethical principles
@@ -47,9 +46,11 @@ Professional use should protect:
 - disability access
 - fairness
 - wellbeing
+- recovery
+- adaptive quitting
 - interpretive humility
 - institutional accountability
 
 ## Responsible interpretation
 
-Grit-related language should never be used to blame people for outcomes shaped by poverty, discrimination, trauma, unsafe institutions, poor instruction, inaccessible systems, unsupported caregiving, or lack of opportunity.
+Grit language should support meaningful development, not blame. It should ask whether persistence is adaptive, supported, recoverable, and connected to purpose.

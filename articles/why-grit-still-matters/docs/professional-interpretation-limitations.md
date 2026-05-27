@@ -4,28 +4,29 @@
 
 **Why Grit Still Matters**
 
-## What can be interpreted
+## What this scaffold can support
 
 The synthetic workflows can illustrate:
 
-- how grit-related constructs might be represented in research data
-- how facet scores may differ from total scores
-- how reliability can be estimated
-- how developmental or contextual variables may shape interpretation
-- how outcomes can be modeled with covariates
-- why support, recovery, feedback, opportunity, and stress matter
+- how to model grit as one contributor to adaptive persistence
+- how to compare grit-only and context-rich models
+- how to test grit-by-environment interaction
+- how to model goal progress
+- how to model burnout risk as a safety outcome
+- how to model wellbeing
+- how to document limits and ethical cautions
 
-## What cannot be interpreted
+## What this scaffold cannot support
 
 These materials cannot determine:
 
 - whether a real person is gritty
-- whether a real person should be admitted, hired, promoted, retained, disciplined, or evaluated
-- whether someone’s success or struggle is caused by grit
-- whether a school, workplace, or program should rank people by grit
-- whether a person’s decision to quit is adaptive or avoidant without deep context
-- whether an intervention is effective without proper evaluation
+- whether a real person should persist or quit
+- whether a real person should be admitted, hired, promoted, disciplined, or evaluated
+- whether a real institution is fair without real-world audit evidence
+- whether a real intervention is effective without proper evaluation
+- whether persistence is adaptive without contextual evidence
 
-## Core limitation
+## Professional limitation
 
-Grit research can be useful, but it is vulnerable to misuse when interpreted as a simple character explanation for complex outcomes. Professional interpretation must include measurement limits, developmental context, and structural conditions.
+Grit is meaningful but incomplete. It should be interpreted alongside purpose, feedback, recovery, social support, environmental support, practice quality, self-control, conscientiousness, blocked opportunity, burnout risk, wellbeing, and institutional context.

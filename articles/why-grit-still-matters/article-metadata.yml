@@ -1,0 +1,40 @@
+title: "Why Grit Still Matters"
+slug: "why-grit-still-matters"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/why-grit-still-matters"
+description: "Companion professional positive-psychology research scaffold for a capstone article on why grit still matters when interpreted as adaptive persistence, including perseverance, consistency of interests, purpose, feedback quality, practice quality, recovery capacity, environmental support, social support, blocked opportunity, burnout risk, wellbeing, goal progress, adaptive quitting, and responsible professional interpretation."
+methods:
+  - synthetic survey-style data generation
+  - adaptive-persistence modeling
+  - comparative construct modeling
+  - grit-by-environment moderation
+  - psychometrics demonstration
+  - contextual validity analysis
+  - goal-progress modeling
+  - burnout safety monitoring
+  - wellbeing modeling
+  - professional interpretation limits
+  - responsible-use documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - positive psychology capstone analysis
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
+  - not for diagnosis
