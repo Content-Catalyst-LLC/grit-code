@@ -1,0 +1,38 @@
+title: "When Quitting Is Adaptive"
+slug: "when-quitting-is-adaptive"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/when-quitting-is-adaptive"
+description: "Companion research-code scaffold for an article on adaptive quitting, goal disengagement, goal reengagement, grit, sunk cost, identity pressure, health risk, purpose alignment, feedback responsiveness, alternative-goal value, overpersistence risk, sustainable persistence, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - adaptive quitting modeling
+  - goal disengagement modeling
+  - goal reengagement modeling
+  - overpersistence risk modeling
+  - sustainable persistence modeling
+  - sunk-cost and identity-pressure modeling
+  - contextual regression
+  - profile classification
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
