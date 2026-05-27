@@ -1,0 +1,32 @@
+title: "Perseverance of Effort Versus Consistency of Interests"
+slug: "perseverance-of-effort-versus-consistency-of-interests"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/perseverance-of-effort-versus-consistency-of-interests"
+description: "Companion research-code scaffold for a deep dive on perseverance of effort versus consistency of interests, grit-facet profiles, total-score interpretation, construct overlap, contextual modeling, burnout, social support, and responsible measurement."
+methods:
+  - synthetic data generation
+  - facet-level grit modeling
+  - total-score comparison
+  - profile classification
+  - contextual regression
+  - burnout and social support modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for student ranking
+  - not for employee evaluation
