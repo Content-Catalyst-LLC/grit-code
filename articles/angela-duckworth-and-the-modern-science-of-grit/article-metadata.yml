@@ -1,0 +1,30 @@
+title: "Angela Duckworth and the Modern Science of Grit"
+slug: "angela-duckworth-and-the-modern-science-of-grit"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/angela-duckworth-and-the-modern-science-of-grit"
+description: "Companion research-code scaffold for an article on Angela Duckworth, grit, perseverance of effort, consistency of interest, achievement, measurement cautions, conscientiousness, self-control, and structural context."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - regression comparison
+  - construct-overlap demonstration
+  - contextual modeling
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for hiring or admissions
+  - not for employee evaluation
