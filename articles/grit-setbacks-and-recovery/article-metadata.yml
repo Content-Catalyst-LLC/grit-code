@@ -1,0 +1,36 @@
+title: "Grit, Setbacks, and Recovery"
+slug: "grit-setbacks-and-recovery"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-setbacks-and-recovery"
+description: "Companion research-code scaffold for an article on grit, setbacks, and recovery, including perseverance, consistency of interests, setback severity, emotional recovery, cognitive recovery, physical restoration, social support, practical resources, feedback quality, opportunity access, burnout, adaptive persistence, and responsible interpretation."
+methods:
+  - synthetic data generation
+  - grit facet modeling
+  - setback severity modeling
+  - recovery capacity modeling
+  - burnout and strain modeling
+  - interaction modeling
+  - contextual persistence modeling
+  - recovery profile classification
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
