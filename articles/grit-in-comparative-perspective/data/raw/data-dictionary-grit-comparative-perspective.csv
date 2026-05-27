@@ -1,0 +1,23 @@
+variable,type,description,professional_note
+participant_id,integer,Synthetic participant identifier,No real participant data
+age,integer,Synthetic age in years,Used only for demonstration
+developmental_stage,categorical,Synthetic developmental stage,Not a diagnostic classification
+perseverance_effort,float,Synthetic perseverance facet,Not a validated scale
+consistency_interests,float,Synthetic consistency facet,Not a validated scale
+grit_composite,float,Synthetic grit composite,Not an individual assessment
+self_control,float,Synthetic self-control score,Not a validated scale
+conscientiousness,float,Synthetic conscientiousness score,Not a validated personality inventory
+resilience_recovery,float,Synthetic resilience/recovery score,Not a clinical measure
+deliberate_practice_quality,float,Synthetic deliberate-practice quality,Context-dependent
+motivation_quality,float,Synthetic motivation-quality score,Not a validated scale
+purpose_alignment,float,Synthetic purpose-alignment score,Context-sensitive
+growth_mindset,float,Synthetic growth-mindset score,Not a validated scale
+narrative_identity_flexibility,float,Synthetic narrative flexibility score,Not a diagnostic measure
+environmental_support,float,Synthetic environmental support,Context-dependent
+autonomy_support,float,Synthetic autonomy support,Context-dependent
+chronic_stress,float,Synthetic chronic stress,Not a clinical measure
+demand_intensity,float,Synthetic demand intensity,Context-dependent
+adaptive_persistence,float,Synthetic adaptive persistence,Not an individual assessment
+goal_progress,float,Synthetic goal progress,Not an objective outcome
+burnout_risk,float,Synthetic burnout risk,Not a clinical measure
+wellbeing,float,Synthetic wellbeing,Not a clinical measure

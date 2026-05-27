@@ -2,37 +2,35 @@
 
 ## Article
 
-**Grit In Comparative Perspective**
+**Grit in Comparative Perspective**
 
 ## Appropriate use
 
-These files are appropriate for:
+These materials are appropriate for:
 
 - synthetic-data demonstration
-- research methods teaching
-- positive psychology article support
-- reproducible workflow design
+- research-method teaching
+- construct comparison
 - psychometrics education
-- professional interpretation training
-- intervention planning examples
-- ethical limitations documentation
+- positive psychology article support
+- responsible interpretation training
+- program-evaluation examples
 
 ## Inappropriate use
 
-Do not use these files for:
+Do not use these materials for:
 
 - hiring
 - admissions
 - student ranking
 - employee evaluation
-- discipline
 - psychological diagnosis
 - individual assessment
+- discipline
 - workplace surveillance
-- predicting individual success
-- determining access to services
+- predicting individual achievement
+- deciding who deserves support
 - explaining away inequity
-- pressuring people to endure harmful conditions
 
 ## Ethical principles
 
@@ -47,9 +45,10 @@ Professional use should protect:
 - disability access
 - fairness
 - wellbeing
+- recovery
 - interpretive humility
 - institutional accountability
 
 ## Responsible interpretation
 
-Grit-related language should never be used to blame people for outcomes shaped by poverty, discrimination, trauma, unsafe institutions, poor instruction, inaccessible systems, unsupported caregiving, or lack of opportunity.
+Comparative framing should prevent simplistic claims. Grit is one construct within a broader system that includes personality, self-regulation, motivation, purpose, support, opportunity, and institutions.

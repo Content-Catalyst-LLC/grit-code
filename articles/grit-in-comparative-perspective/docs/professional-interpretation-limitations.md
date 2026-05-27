@@ -2,30 +2,31 @@
 
 ## Article
 
-**Grit In Comparative Perspective**
+**Grit in Comparative Perspective**
 
-## What can be interpreted
+## What this scaffold can support
 
 The synthetic workflows can illustrate:
 
-- how grit-related constructs might be represented in research data
-- how facet scores may differ from total scores
-- how reliability can be estimated
-- how developmental or contextual variables may shape interpretation
-- how outcomes can be modeled with covariates
-- why support, recovery, feedback, opportunity, and stress matter
+- how to represent grit and neighboring constructs in research data
+- how to estimate construct overlap
+- how to compare grit-only and comparative models
+- how to test whether grit contributes after related constructs
+- how to test moderation by environmental support
+- how to model burnout risk as a safety outcome
+- how to document limits and ethical cautions
 
-## What cannot be interpreted
+## What this scaffold cannot support
 
 These materials cannot determine:
 
 - whether a real person is gritty
-- whether a real person should be admitted, hired, promoted, retained, disciplined, or evaluated
-- whether someone’s success or struggle is caused by grit
-- whether a school, workplace, or program should rank people by grit
-- whether a person’s decision to quit is adaptive or avoidant without deep context
-- whether an intervention is effective without proper evaluation
+- whether grit uniquely explains real achievement
+- whether a person should be admitted, hired, promoted, disciplined, or evaluated
+- whether a real program is effective
+- whether persistence is adaptive without contextual evidence
+- whether one construct is universally superior to another
 
-## Core limitation
+## Professional limitation
 
-Grit research can be useful, but it is vulnerable to misuse when interpreted as a simple character explanation for complex outcomes. Professional interpretation must include measurement limits, developmental context, and structural conditions.
+Comparative construct analysis is sensitive to measurement quality, sample composition, context, model specification, cultural meaning, and omitted variables. Quantitative results should be interpreted with theory, qualitative context, and professional judgment.

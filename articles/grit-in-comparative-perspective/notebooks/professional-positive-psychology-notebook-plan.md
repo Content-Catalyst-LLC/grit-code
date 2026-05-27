@@ -2,25 +2,26 @@
 
 ## Article
 
-**Grit In Comparative Perspective**
+**Grit in Comparative Perspective**
 
 ## Notebook sections
 
-1. Construct definition and theory frame.
-2. Data dictionary and synthetic survey design.
-3. Item distributions and missing-data checks.
-4. Perseverance and consistency facet scoring.
-5. Reliability demonstration.
-6. Item-total correlation demonstration.
-7. Convergent and discriminant validity checks.
-8. Developmental-stage descriptive summaries.
-9. Contextual interpretation: support, recovery, feedback, stress, and opportunity.
-10. Burnout and overpersistence cautions where relevant.
-11. Longitudinal/developmental modeling where relevant.
-12. Intervention or program-evaluation implications.
-13. Limitations and responsible-use statement.
-14. Professional interpretation summary.
+1. Construct definitions and comparison frame.
+2. Synthetic data dictionary and survey design.
+3. Descriptive statistics by developmental stage.
+4. Grit facet scoring.
+5. Construct correlation matrix.
+6. Grit-only adaptive persistence model.
+7. Comparative construct model.
+8. Incremental validity discussion.
+9. Grit-by-environmental-support moderation.
+10. Goal-progress model.
+11. Burnout-risk safety model.
+12. Measurement overlap and construct validity cautions.
+13. Cultural and contextual interpretation notes.
+14. Limitations and responsible-use statement.
+15. Professional interpretation summary.
 
 ## Required caution
 
-No notebook in this scaffold should be used for individual diagnosis, screening, employment selection, admissions decisions, student ranking, or employee evaluation.
+No notebook in this scaffold should be used for individual diagnosis, screening, hiring, admissions, student ranking, employee evaluation, discipline, or workplace surveillance.

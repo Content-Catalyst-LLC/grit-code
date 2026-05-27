@@ -2,45 +2,66 @@
 
 ## Article
 
-**Grit In Comparative Perspective**
+**Grit in Comparative Perspective**
 
 ## Primary construct
 
-This article belongs to the Grit knowledge series. In professional positive psychology, grit should be treated as a theory-linked construct, not as a casual synonym for toughness, motivation, compliance, or productivity.
+This article examines grit as one construct among neighboring constructs in professional positive psychology, personality science, motivation science, and educational psychology.
 
-A careful construct definition should specify:
+## Core constructs
 
-1. **Conceptual domain** — what psychological phenomenon is being studied.
-2. **Facets** — whether the article emphasizes perseverance of effort, consistency of interests, long-term goal commitment, recovery after setbacks, purpose, overpersistence, adaptive quitting, or developmental change.
-3. **Boundaries** — what the construct is not.
-4. **Developmental context** — whether the construct is being interpreted in adolescence, emerging adulthood, adulthood, later life, school, work, or clinical-adjacent settings.
-5. **Environmental conditions** — supports, constraints, opportunity, feedback, recovery, belonging, autonomy, and institutional context.
-6. **Responsible interpretation** — what cannot be inferred from a single score or isolated behavior.
+### Grit
 
-## Core grit facets
+Perseverance and passion for long-term goals. Professionally, grit should be interpreted as a construct emphasizing sustained effort and commitment over time, not as a total explanation for success.
 
-- **Perseverance of effort:** sustained effort despite difficulty, delay, boredom, setback, or slow progress.
-- **Consistency of interests:** relative stability of long-term interests or goal commitments over time.
-- **Long-term goal orientation:** the ability to organize present effort around a valued future direction.
-- **Adaptive persistence:** persistence that remains responsive to feedback, recovery, health, ethics, and changing evidence.
-- **Contextual support:** the social and institutional conditions that make sustained effort possible.
+### Perseverance of effort
+
+Sustained effort despite difficulty, delay, boredom, frustration, or setback.
+
+### Consistency of interests
+
+Relative stability of long-term interests or goals. This should be interpreted developmentally because exploration can be adaptive.
+
+### Self-control
+
+Regulation of short-term impulses, distractions, temptations, and competing desires.
+
+### Conscientiousness
+
+A broad personality domain involving responsibility, dependability, orderliness, industriousness, and goal-directedness.
+
+### Resilience and recovery
+
+The capacity to adapt, recover, reorganize, or continue functioning under adversity or stress.
+
+### Deliberate practice quality
+
+Structured, feedback-guided effort focused on improvement.
+
+### Purpose alignment
+
+The degree to which effort is connected to meaning, values, identity, contribution, or long-term direction.
+
+### Environmental support
+
+The social, institutional, relational, and material conditions that make sustained effort feasible and humane.
 
 ## Construct boundaries
 
-Grit should not be conflated with:
+Grit should not be treated as identical to:
 
-- general achievement
-- intelligence
+- self-control
+- conscientiousness
+- resilience
+- motivation
+- achievement
 - moral worth
-- self-control alone
-- conscientiousness as a whole
-- trauma resilience
-- compliance
+- obedience
 - productivity
+- trauma recovery
+- refusal to quit
 - willingness to endure exploitation
-- absence of distress
-- refusal to quit under all circumstances
 
 ## Professional interpretation
 
-The construct should be interpreted as part of a broader psychological and social system. A professional interpretation should consider motivation, goals, feedback, identity, development, opportunity, health, stress, social support, cultural context, and institutional conditions.
+A professional interpretation should ask what grit uniquely contributes after related constructs and context are considered.

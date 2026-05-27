@@ -1,0 +1,40 @@
+title: "Grit in Comparative Perspective"
+slug: "grit-in-comparative-perspective"
+series: "Grit"
+repository: "grit-code"
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code/tree/main/articles/grit-in-comparative-perspective"
+description: "Companion professional positive-psychology research scaffold for an article comparing grit with self-control, conscientiousness, resilience, deliberate practice, motivation, purpose, growth mindset, narrative identity, environmental support, adaptive persistence, goal progress, burnout risk, and responsible professional interpretation."
+methods:
+  - synthetic survey-style data generation
+  - comparative construct modeling
+  - construct-overlap analysis
+  - correlation analysis
+  - moderation analysis
+  - psychometrics demonstration
+  - incremental validity modeling
+  - burnout safety monitoring
+  - goal-progress modeling
+  - professional interpretation limits
+  - responsible-use documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  - synthetic data only
+  - article support
+  - research-method demonstration
+  - positive psychology construct comparison
+  - not for individual assessment
+  - not for admissions
+  - not for hiring
+  - not for student ranking
+  - not for discipline
+  - not for employee evaluation
+  - not for diagnosis

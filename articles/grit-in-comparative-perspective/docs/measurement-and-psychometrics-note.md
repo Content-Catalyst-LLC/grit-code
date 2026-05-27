@@ -2,44 +2,46 @@
 
 ## Article
 
-**Grit In Comparative Perspective**
+**Grit in Comparative Perspective**
 
 ## Measurement purpose
 
-This folder uses synthetic survey-style data to demonstrate professional measurement thinking. It does not provide a validated instrument and should not be used for individual scoring.
+This folder uses synthetic survey-style data to demonstrate comparative construct analysis. The materials do not provide validated scales.
 
-## Measurement concerns for grit-related constructs
+## Recommended measurement domains
 
-Professional positive psychology work should consider:
+- perseverance of effort
+- consistency of interests
+- grit composite
+- self-control
+- conscientiousness
+- resilience and recovery
+- deliberate practice quality
+- motivation quality
+- purpose alignment
+- growth mindset
+- narrative identity flexibility
+- environmental support
+- adaptive persistence
+- goal progress
+- burnout risk
+- wellbeing
 
-- item wording and construct coverage
-- facet structure
-- internal consistency
-- test-retest reliability
-- convergent validity
-- discriminant validity
-- criterion-related validity
-- measurement invariance across groups
-- developmental appropriateness
-- cultural and linguistic fit
-- response bias and social desirability
-- ceiling effects in high-achieving samples
-- range restriction in selective populations
-- contextual confounding
+## Psychometric checks
 
-## Suggested analytic checks
+Professional analysis should include:
 
-1. Inspect item distributions.
-2. Reverse-code relevant items where necessary.
-3. Estimate internal consistency for facet and total scales.
-4. Examine item-total correlations.
-5. Compare facet-level and total-score interpretations.
-6. Test associations with theoretically relevant constructs.
-7. Check whether the construct predicts outcomes beyond plausible covariates.
-8. Interpret effect sizes, not only significance.
-9. Avoid high-stakes individual classification.
-10. Document limitations clearly.
+1. item distribution checks
+2. reliability estimates where multi-item scales are used
+3. facet-level interpretation
+4. construct correlation matrices
+5. incremental validity models
+6. moderation by environmental support
+7. safety-outcome models for burnout
+8. developmental-stage summaries
+9. measurement invariance where real data permit
+10. qualitative context where possible
 
 ## Professional caution
 
-A grit score should not be treated as a moral judgment, diagnostic label, employment criterion, admissions criterion, or explanation for unequal outcomes. Measurement must be paired with context.
+A grit score should not be interpreted without comparison constructs and contextual variables. High grit may indicate adaptive persistence, but it can also indicate overpersistence under poor conditions.
