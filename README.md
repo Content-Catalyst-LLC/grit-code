@@ -1,28 +1,25 @@
-# Grit Code
+# Grit Code Repository
 
-Open computational scaffolding for the Grit knowledge series.
+This repository supports the Grit knowledge series with reproducible, multi-language research workflows.
 
-This repository supports article-level examples for sustained striving, perseverance of effort, consistency of interests, long-term goals, grit-scale measurement, self-control, conscientiousness, deliberate practice, goal hierarchies, purpose, recovery after setbacks, burnout risk, adaptive disengagement, developmental change, situational supports, and environments that support long-horizon effort.
+## Current article scaffold
 
-## Structure
+- What Is Grit?
 
-Each article folder contains:
+## Repository structure
 
-- `python/`
-- `r/`
-- `julia/`
-- `cpp/`
-- `fortran/`
-- `c/`
-- `rust/`
-- `go/`
-- `sql/`
-- `notebooks/`
-- `docs/`
-- `data/raw/`
-- `data/processed/`
-- `outputs/`
+- `python/` — Python workflows
+- `r/` — R workflows
+- `julia/` — Julia examples
+- `sql/` — SQL schema and query examples
+- `c/`, `cpp/`, `fortran/`, `go/`, `rust/` — compact computational examples
+- `data/raw/` — small synthetic source data
+- `data/processed/` — generated modeled datasets
+- `docs/` — methods notes and WordPress GitHub embed blocks
+- `notebooks/` — notebook planning notes
+- `outputs/figures/` — generated figures
+- `outputs/tables/` — generated tables
 
-## License
+## Responsible use
 
-MIT License.
+These files use synthetic data for research demonstration, article support, reproducible workflow design, and educational modeling. They are not intended for ranking, hiring, disciplining, selecting, diagnosing, or psychologically evaluating real people.

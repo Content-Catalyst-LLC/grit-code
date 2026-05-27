@@ -1,0 +1,23 @@
+title: "What Is Grit?"
+slug: "what-is-grit"
+series: "Grit"
+repository: "grit-code"
+article_url: ""
+github_url: "https://github.com/Content-Catalyst-LLC/grit-code"
+description: "Companion research-code scaffold for the article What Is Grit?, focused on perseverance of effort, consistency of interest, long-term goals, self-control, conscientiousness, social support, and achievement-related outcomes."
+methods:
+  - synthetic data generation
+  - two-factor grit modeling
+  - regression comparison
+  - construct-overlap demonstration
+  - reproducible workflow design
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
